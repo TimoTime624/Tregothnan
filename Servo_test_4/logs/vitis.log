@@ -1,0 +1,10 @@
+16:16:01 INFO  : updated workspace path: E:\EE415\Vitis\Servo_test_4
+16:16:01 INFO  : Embedded Template List generated successfully
+16:16:01 INFO  : cmd.exe, /C, E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python E:\Xilinx\Vitis\2024.1\data\embeddedsw\scripts\pyesw\\repo.py -st   E:\Xilinx\Vitis\2024.1\data\embeddedsw && E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+16:16:04 INFO  : Successfully created repository data at E:\EE415\Vitis\Servo_test_4/.wsdata
+16:16:04 INFO  : cmd.exe, /C, E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python E:\Xilinx\Vitis\2024.1\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\myell\AppData\Local\Temp\rigel_lopper_myell1094141222761737566 -r E:\EE415\Vitis\Servo_test_4\.wsdata\.repo.yaml && E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+16:16:04 INFO  : Embedded Template List generated successfully
+16:22:38 INFO  : Found no platform with name 'servo_test_3' in install repositories
+16:22:39 INFO  : cmd.exe, /C, E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && xsct.bat E:\Xilinx\Vitis\2024.1\vitisng-server\scripts\platformutil.tcl E:\EE415\Vivado\Tregothnan\Tregothnan_1\servo_test_3.xsa E:\EE415\Vitis\Servo_test_4\.rigel_lopper_temp_platform\servo_test_3\hw\sdt && E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+16:22:51 INFO  : cmd.exe, /C, E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python E:\Xilinx\Vitis\2024.1\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\myell\AppData\Local\Temp\rigel_lopper_myell2420215663774064629 -r E:\EE415\Vitis\Servo_test_4\.wsdata\.repo.yaml && E:\Xilinx\Vitis\2024.1\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+16:22:51 INFO  : created .gitignore file for the project E:\EE415\Vitis\Servo_test_3
